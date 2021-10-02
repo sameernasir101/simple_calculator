@@ -5,13 +5,15 @@
 
 A Simple calculator app made by using Python (back-end) and Tkinter (front-end). It can perform various calculations.
 
-More Options for Calculating will be added soon.
+More Options for Calculating will be added soon. 
+
+I could not upload the .exe file to repository as it's size was huge.
 
 -----------------------------------------------------------------------------------------------------------------
 
 To Run The Program:
     
-    Just Double Click on the "calculator.exe".
+    Just Double Click on the "calculator.pyw".
 
 -----------------------------------------------------------------------------------------------------------------
 
